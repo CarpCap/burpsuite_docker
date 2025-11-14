@@ -1,10 +1,11 @@
 # 🚀 BurpSuite Batch Deployment for Docker
 
 
-选择语言 / Select Language:
+Select Language:
 
-- [中文](README_zh.md)
 - [English](README.md)
+- [中文](README_zh.md)
+
 
 
 

@@ -1,10 +1,11 @@
 
 # 🚀 BurpSuite Docker 批量部署 
 
-选择语言 / Select Language:
+选择语言:
 
-- [中文](README_zh.md)
 - [English](README.md)
+- [中文](README_zh.md)
+
 
 
 本项目可以在 Docker 环境中启动 **多个 Burp Suite 实例**，支持 GUI 和无 GUI 模式。
